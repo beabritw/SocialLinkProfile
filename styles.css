@@ -17,6 +17,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
+    color: white;
 }
 
 .container {
@@ -74,5 +76,8 @@ h2 {
 }
 
 .links a:hover {
-    background-color: var(--neutral-light-grey);
+    background-color: var(--neutral-lighter-grey);
+    
 }
+
+
