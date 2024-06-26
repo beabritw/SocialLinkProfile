@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-(![image](https://github.com/beabritw/SocialLinkProfile/assets/130067439/282614ba-b3b3-4e95-879d-390c26a98dd2)
-)
+![image](https://github.com/beabritw/SocialLinkProfile/assets/130067439/282614ba-b3b3-4e95-879d-390c26a98dd2)
+
 
 
 
